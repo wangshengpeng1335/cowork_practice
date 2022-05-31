@@ -1,6 +1,4 @@
 bb
-<<<<<<< HEAD
 Cc
-=======
 New
->>>>>>> d46cf67 (update file.text in line 2)
+
